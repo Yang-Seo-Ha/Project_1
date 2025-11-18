@@ -1,2 +1,3 @@
 __version__ = "1.0.0"
-import pandas as pd
+
+print("테스트")
