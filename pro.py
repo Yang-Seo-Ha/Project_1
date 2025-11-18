@@ -1,2 +1,3 @@
 print('hello world')
-print("asd")ㅁㄴㅇㅁㄴㅇㄴ
+print("asd")
+print("adsd")
