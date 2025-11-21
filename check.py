@@ -1,3 +1,5 @@
 import pandas as pd
-df_h = pd.read_csv('서울시 지하철 호선별 역별 시간대별 승하차 인원 정보.csv')
-print(df_h.head())
+
+df = pd.read_csv('서울교통공사_외국인 관광객 기간권 일별 통행통계_20241231.csv', encoding ='cp949')
+print(df.info())
+print(df.head())
